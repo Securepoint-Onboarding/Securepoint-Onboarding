@@ -14,8 +14,10 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 6. Techniker im Schulungsprogramm anmelden  
 7. Securepoint Wiki lesen zur Ticket Erstellung  
 8. Folgende Videos und Webinare anschauen  
-9. Onboarding Bestellungen und MSP Zusammenstellung  
+9. Onboarding Bestellungen und MSP Zusammenstellung
 10. Lizenzbenachrichtigung und Intervalle einrichten
+
+
 
 ---
 
@@ -44,7 +46,6 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
   <br><br>
 </div>
 
-
 ---
 
 ## 3. Schulungen
@@ -66,9 +67,14 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 - **TI Proxy & Gateway**:[Mehr erfahren](https://www.securepoint.de/arztpraxis-als-kunden-gewinnen) [Telekonnekt](https://www.telekonnekt.de/kunden-shop)
 
 ---
+## 5. Installationsbegleitung
+- **Supportpaket zur Firewall-Installation**:[Mehr erfahren](https://www.securepoint.de/guided-installation)
+
+---
+
 > Bei Fragen oder für weitere Informationen wenden Sie sich gerne an uns!
 
-## 5. Kontaktdaten Ansprechpartner
+## 6. Kontaktdaten Ansprechpartner
 
 **Außendienst:**  
 Josephine Halbach  
