@@ -1,0 +1,18 @@
+title: Securepoint Onboarding
+description: Alle wichtigen Schritte, Informationen und Links für das Partner-Onboarding.
+theme: minima
+logo: /securepoint-logo.svg
+show_downloads: true
+email: Josephine.Halbach@securepoint.de
+author: Securepoint Team
+
+# Für GitHub Pages:
+github:
+  is_project_page: true
+
+# Navigation (optional)
+nav:
+  - Home: /
+  - Produkte: /produkte
+  - Schulungen: /schulungen
+  - Support: /support
