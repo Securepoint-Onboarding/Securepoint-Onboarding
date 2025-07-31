@@ -72,7 +72,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 
 ---
 
-> Bei Fragen oder für weitere Informationen wenden Sie sich gerne an uns!
+> Bei Fragen oder für weitere Informationen wenden Sie sich gerne an uns, wir sind gerne für Sie da!
 
 ## 6. Kontaktdaten Ansprechpartner
 
