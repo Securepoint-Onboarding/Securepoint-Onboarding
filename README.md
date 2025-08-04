@@ -83,8 +83,8 @@ Josephine Halbach
 Mobil: +49 15170509012
 
 **Innendienst:**  
-Rafael Paap  
-[rafael.paap@securepoint.de](mailto:rafael.paap@securepoint.de)  
+Raphael Paap  
+[raphael.paap@securepoint.de](mailto:raphael.paap@securepoint.de)  
 Telefon: +49 4131 2401-392
 
 ---
