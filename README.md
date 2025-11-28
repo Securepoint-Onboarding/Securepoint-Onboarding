@@ -83,7 +83,7 @@ Josephine Halbach
 Mobil: +49 15170509012
 
 **Innendienst:**  
-Raphael Paap  
+Kevin Harms  
 [Kevin.Harms@securepoint.de](mailto:kevin.harms@securepoint.de)  
 Telefon: +49 4131 2401-541
 
