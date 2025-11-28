@@ -84,8 +84,8 @@ Mobil: +49 15170509012
 
 **Innendienst:**  
 Raphael Paap  
-[raphael.paap@securepoint.de](mailto:raphael.paap@securepoint.de)  
-Telefon: +49 4131 2401-392
+[Kevin.Harms@securepoint.de](mailto:kevin.harms@securepoint.de)  
+Telefon: +49 4131 2401-541
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="250"/>
