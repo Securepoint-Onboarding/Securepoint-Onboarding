@@ -6,16 +6,16 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 ---
 ## Step-By-Step
   
-1. Anmeldung RSP  
-2. Runterladen Preisliste  
-3. Anmeldung Newsletter  
+1. Anmeldung im Resellerportal  
+2. aktuelle Preisliste herunterladen
+3. Anmeldung zum Newsletter  
 4. Mitarbeiter im RSP anlegen und Rollen vergeben  
 5. Standort Informationen im RSP einpflegen  
 6. Techniker im Schulungsprogramm anmelden  
-7. Securepoint Wiki lesen zur Ticket Erstellung  
-8. Folgende Videos und Webinare anschauen  
+7. Securepoint Wiki und Produkterklärung
+8. Videos und Webinare  
 9. Onboarding Bestellungen und MSP Zusammenstellung
-10. Lizenzbenachrichtigung und Intervalle einrichten
+10. Lizenzonboarding 
 
 
 
