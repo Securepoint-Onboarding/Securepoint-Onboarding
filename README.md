@@ -75,7 +75,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 > Bei Fragen oder für weitere Informationen wenden Sie sich gerne an uns, wir sind gerne für Sie da!
 
 ## 6. Kontaktdaten Ansprechpartner
-<img src="https://github.com/user-attachments/assets/f0f3d402-2830-4872-b9d1-00714f3c57e8" width="250" height="250" alt="Securepoint West4 Animation" />
+<img src="https://github.com/Securepoint-Onboarding/Securepoint-Onboarding/issues/8#issue-3677532531" width="250" height="250" alt="Securepoint West4 Animation" />
 
 **Außendienst:**  
 Josephine Halbach  
