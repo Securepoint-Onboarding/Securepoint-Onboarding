@@ -75,7 +75,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 > Bei Fragen oder für weitere Informationen wenden Sie sich gerne an uns, wir sind gerne für Sie da!
 
 ## 6. Kontaktdaten Ansprechpartner
-<img src="(https://private-user-images.githubusercontent.com/223863451/520469386-62e4f6f8-544f-468c-9583-b73c79dc634c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ0OTM3MTcsIm5iZiI6MTc2NDQ5MzQxNywicGF0aCI6Ii8yMjM4NjM0NTEvNTIwNDY5Mzg2LTYyZTRmNmY4LTU0NGYtNDY4Yy05NTgzLWI3M2M3OWRjNjM0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEzMFQwOTAzMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNGU2OWNjNjFlMzBhYzY2YTE1ZmU5YmM3ZTU0NzY4MDcwMDVhZTMyMDk2ZmRlM2ExYmFkN2Y5Y2JjMGIwZWM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KTRegIUq5aSzMAorJ-DIcD5JOtZVOPfTPqBvx279zds)" width="250" height="250" alt="Securepoint West4 Animation" />
+<img src="(![Image](https://github.com/user-attachments/assets/62e4f6f8-544f-468c-9583-b73c79dc634c)" width="250" height="250" alt="Securepoint West4 Animation" />
 
 **Außendienst:**  
 Josephine Halbach  
