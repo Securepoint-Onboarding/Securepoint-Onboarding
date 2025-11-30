@@ -78,8 +78,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 
 <img src="https://github.com/user-attachments/assets/62e4f6f8-544f-468c-9583-b73c79dc634c"
      width="250"
-     height="250"
-     alt="Securepoint West4 Animation" />
+     height="250" />
 
 **Außendienst:**  
 Josephine Halbach  
