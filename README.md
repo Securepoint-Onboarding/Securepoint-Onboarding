@@ -91,8 +91,6 @@ Kevin Harms
 Telefon: +49 4131 2401-541
 
 ---
-<img src="https://github.com/Securepoint-Onboarding/Securepoint-Onboarding/issues/8#issue-3677532531" width="250"/>
-<br><br>
 
 
 
