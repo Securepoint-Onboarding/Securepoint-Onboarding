@@ -14,8 +14,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 6. Techniker im Schulungsprogramm anmelden  
 7. Securepoint Wiki und Produkterklärung
 8. Videos und Webinare  
-9. Onboarding Bestellungen und MSP Zusammenstellung
-10. Lizenzonboarding 
+9. Securepoint Shop 
 
 
 
@@ -69,6 +68,7 @@ Zudem finden Sie wichtige Informationen und Tools, um uns und unsere Produkte, L
 ---
 ## 5. Installationsbegleitung
 - **Supportpaket zur Firewall-Installation**:[Mehr erfahren](https://www.securepoint.de/guided-installation)
+- **Securepoint Shop**[mehr erfahren](https://shop.securepoint.de/)
 
 ---
 
